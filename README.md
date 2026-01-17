@@ -59,7 +59,7 @@ Mon travail se concentre sur la formulation de propositions claires, fondées su
 
 📥 **Télécharger le CV (fictif)** :
 
-👉 [Télécharger le CV](./cv/Michael-Johnson-CV.pdf)
+👉 [Télécharger le CV](./cv/portofolio.docx)
 
 Le CV est fourni uniquement à titre d’exemple de structure et de présentation.
 
