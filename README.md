@@ -4,7 +4,7 @@
 
 Bienvenue sur ce dépôt GitHub de présentation.
 
-Ce repository est un **portfolio fictif** présentant le profil d’un **homme politique français**, utilisé uniquement comme **modèle / démonstration** (exercice, maquette, ou test de mise en forme). Il ne représente aucune personne réelle.
+Ce repository est un **portfolio** présentant le profil d’un **homme politique français**, utilisé uniquement comme **modèle / démonstration** (exercice, maquette, ou test de mise en forme). Il ne représente aucune personne réelle.
 
 ---
 
@@ -45,19 +45,9 @@ Mon travail se concentre sur la formulation de propositions claires, fondées su
 
 ---
 
-## 🗂️ Travaux & initiatives (exemples fictifs)
-
-* 🔹 Projet de loi sur la cybersécurité des administrations publiques
-* 🔹 Programme national de formation numérique
-* 🔹 Conférences sur l’éthique de l’intelligence artificielle
-
-> Les documents détaillés peuvent être ajoutés dans le dossier `/projects`.
-
----
-
 ## 📄 Curriculum Vitae
 
-📥 **Télécharger le CV (fictif)** :
+📥 **Télécharger le CV** :
 
 👉 [Télécharger le CV](./cv/portofolio.docx)
 
@@ -65,9 +55,8 @@ Le CV est fourni uniquement à titre d’exemple de structure et de présentatio
 
 ---
 
-## 📬 Contact (fictif)
+## 📬 Contact 
 
-* Site : [https://example-politique.fr](https://example-politique.fr)
 * Email : [michael.johnson@example.com](mailto:michael.johnson@example.com)
 
 ---
